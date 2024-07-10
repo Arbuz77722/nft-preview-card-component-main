@@ -1,0 +1,8 @@
+@media (max-width: 24em) {
+  html {
+    font-size: 60%;
+  }
+  .card-container {
+    max-width: 34rem;
+  }
+}
